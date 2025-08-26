@@ -1,0 +1,11 @@
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/bin/Debug/net9.0/Database.deps.json
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/bin/Debug/net9.0/Database.dll
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/bin/Debug/net9.0/Database.pdb
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.AssemblyInfoInputs.cache
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.AssemblyInfo.cs
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.csproj.CoreCompileInputs.cache
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.dll
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/refint/Database.dll
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/Database.pdb
+/Users/mherrera/git/cgrApi/CgrApi/src/Database/obj/Debug/net9.0/ref/Database.dll
