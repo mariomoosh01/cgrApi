@@ -75,3 +75,32 @@ src/
 - **Always reference** `src/Database/CONVENTIONS.md` for database standards
 - Use CQRS pattern: Commands for writes, Queries for reads
 - Avoid triggers and cursors for performance (see database conventions)
+
+## Code Quality Standards
+
+### Design Patterns and SOLID Principles
+**MANDATORY**: All code implementations must enforce design patterns and SOLID principles:
+
+#### SOLID Principles
+- **Single Responsibility Principle (SRP)**: Each class should have one reason to change
+- **Open/Closed Principle (OCP)**: Open for extension, closed for modification
+- **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for base classes
+- **Interface Segregation Principle (ISP)**: Depend on abstractions, not concretions
+- **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules
+
+#### Required Design Patterns
+- **Repository Pattern**: For data access abstraction
+- **Command Pattern**: For CQRS command handling
+- **Query Pattern**: For CQRS query handling
+- **Factory Pattern**: For object creation when complexity is high
+- **Strategy Pattern**: For interchangeable algorithms/behaviors
+- **Decorator Pattern**: For extending functionality without modification
+- **Observer Pattern**: For event handling and notifications
+
+#### Implementation Guidelines
+- Use dependency injection for all dependencies
+- Implement interfaces for all services and repositories
+- Apply proper separation of concerns across layers
+- Follow DRY (Don't Repeat Yourself) principle
+- Ensure high cohesion and loose coupling
+- Write clean, self-documenting code with meaningful names
